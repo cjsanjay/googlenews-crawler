@@ -1,0 +1,802 @@
+[
+    {
+        "ID": 1, 
+        "content": "Scientists have invented a plastic <em>solar</em> cell that can turn the sun's power into electrical <em>energy</em>, even on a cloudy day. The plastic material uses nanotechnology\u00a0...", 
+        "date": "Jan 15, 2005", 
+        "source": "National Geographic", 
+        "title": "Spray-On <em>Solar</em>-Power Cells Are True Breakthrough", 
+        "url": "http://news.nationalgeographic.com/news/2005/01/0114_050114_solarplastic.html"
+    }, 
+    {
+        "ID": 2, 
+        "content": "The Energy Foundation report also says that <em>solar energy</em> could furnish much of the ... The black, glasslike photovoltaic cells that make up most <em>solar panels</em> are\u00a0...", 
+        "date": "Jul 13, 2005", 
+        "source": "San Francisco Chronicle", 
+        "title": "As <em>solar</em> gets smaller, its future gets brighter / Nanotechnology could <em>...</em>", 
+        "url": "http://www.sfgate.com/business/article/As-solar-gets-smaller-its-future-gets-brighter-2656362.php"
+    }, 
+    {
+        "ID": 3, 
+        "content": "Since its inception, Strem Chemicals has focused on offering unique organometallic compounds for both academic and industrial research purposes.", 
+        "date": "Aug 3, 2005", 
+        "source": "AZoNano.com", 
+        "title": "Fuel Cell, Energy Storage and <em>Solar Energy</em> Applications for <em>...</em>", 
+        "url": "http://www.azonano.com/article.aspx?ArticleID=1339"
+    }, 
+    {
+        "ID": 4, 
+        "content": "There is an old adage that if something sounds too good to be true, it probably is. That adage is especially applicable to <em>solar energy</em>. For decades, there have\u00a0...", 
+        "date": "Jun 4, 2005", 
+        "source": "The Heartland Institute", 
+        "title": "<em>Solar</em> Power: Too Good to Be True", 
+        "url": "http://news.heartland.org/newspaper-article/2005/06/01/solar-power-too-good-be-true"
+    }, 
+    {
+        "ID": 5, 
+        "content": "Sure, these folks are slapping <em>solar panels</em> on the roof and erecting the occasional wind turbine, but they're staying connected to the grid, just to be safe. And in\u00a0...", 
+        "date": "May 12, 2005", 
+        "source": "Wired News", 
+        "title": "The New Power Generation", 
+        "url": "http://www.wired.com/2005/05/solar-4/"
+    }, 
+    {
+        "ID": 6, 
+        "content": "Researchers develop technique to use dirty silicon, could pave way for cheaper <em>solar energy</em>. By Sarah Yang, Media Relations | 15 August 2005. BERKELEY\u00a0...", 
+        "date": "Aug 16, 2005", 
+        "source": "UC Berkeley", 
+        "title": "Researchers develop technique to use dirty silicon, could pave way <em>...</em>", 
+        "url": "http://www.berkeley.edu/news/media/releases/2005/08/15_solar.shtml"
+    }, 
+    {
+        "ID": 7, 
+        "content": "Q: How much energy does the sun produce and where does it all come from and ... amount of energy radiated by measuring the quantity of <em>solar energy</em>/second\u00a0...", 
+        "date": "Sep 6, 2005", 
+        "source": "Boston Globe", 
+        "title": "How much <em>energy</em> does the sun produce?", 
+        "url": "http://www.boston.com/news/science/articles/2005/09/05/how_much_energy_does_the_sun_produce/"
+    }, 
+    {
+        "ID": 8, 
+        "content": "Solar advocates say the timing couldn't be better for Minnesota's annual tour of homes and businesses that use <em>solar energy</em> this weekend. That's because the\u00a0...", 
+        "date": "Sep 30, 2005", 
+        "source": "Minnesota Public Radio", 
+        "title": "Rising heating prices spur a surge in <em>solar</em> projects", 
+        "url": "http://news.minnesota.publicradio.org/features/2005/09/30_bensonl_solar/"
+    }, 
+    {
+        "ID": 9, 
+        "content": "A NASA satellite that measures the variability in the amount of the Sun's <em>energy</em> that reaches Earth's atmosphere and impacts our winds, land and oceans has\u00a0...", 
+        "date": "May 21, 2005", 
+        "source": "Jet Propulsion Laboratory", 
+        "title": "NASA's AcrimSat <em>Solar</em> Spacecraft Completes Five-Year Mission", 
+        "url": "http://www.jpl.nasa.gov/news/news.php?feature=792"
+    }, 
+    {
+        "ID": 10, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 11, 
+        "content": "The Energy Foundation report also says that <em>solar energy</em> could furnish much of the ... The black, glasslike photovoltaic cells that make up most <em>solar panels</em> are\u00a0...", 
+        "date": "Jul 13, 2005", 
+        "source": "San Francisco Chronicle", 
+        "title": "As <em>solar</em> gets smaller, its future gets brighter / Nanotechnology could <em>...</em>", 
+        "url": "http://www.sfgate.com/business/article/As-solar-gets-smaller-its-future-gets-brighter-2656362.php"
+    }, 
+    {
+        "ID": 12, 
+        "content": "Since its inception, Strem Chemicals has focused on offering unique organometallic compounds for both academic and industrial research purposes.", 
+        "date": "Aug 3, 2005", 
+        "source": "AZoNano.com", 
+        "title": "Fuel Cell, Energy Storage and <em>Solar Energy</em> Applications for <em>...</em>", 
+        "url": "http://www.azonano.com/article.aspx?ArticleID=1339"
+    }, 
+    {
+        "ID": 13, 
+        "content": "There is an old adage that if something sounds too good to be true, it probably is. That adage is especially applicable to <em>solar energy</em>. For decades, there have\u00a0...", 
+        "date": "Jun 4, 2005", 
+        "source": "The Heartland Institute", 
+        "title": "<em>Solar</em> Power: Too Good to Be True", 
+        "url": "http://news.heartland.org/newspaper-article/2005/06/01/solar-power-too-good-be-true"
+    }, 
+    {
+        "ID": 14, 
+        "content": "Sure, these folks are slapping <em>solar panels</em> on the roof and erecting the occasional wind turbine, but they're staying connected to the grid, just to be safe. And in\u00a0...", 
+        "date": "May 12, 2005", 
+        "source": "Wired News", 
+        "title": "The New Power Generation", 
+        "url": "http://www.wired.com/2005/05/solar-4/"
+    }, 
+    {
+        "ID": 15, 
+        "content": "Researchers develop technique to use dirty silicon, could pave way for cheaper <em>solar energy</em>. By Sarah Yang, Media Relations | 15 August 2005. BERKELEY\u00a0...", 
+        "date": "Aug 16, 2005", 
+        "source": "UC Berkeley", 
+        "title": "Researchers develop technique to use dirty silicon, could pave way <em>...</em>", 
+        "url": "http://www.berkeley.edu/news/media/releases/2005/08/15_solar.shtml"
+    }, 
+    {
+        "ID": 16, 
+        "content": "Q: How much energy does the sun produce and where does it all come from and ... amount of energy radiated by measuring the quantity of <em>solar energy</em>/second\u00a0...", 
+        "date": "Sep 6, 2005", 
+        "source": "Boston Globe", 
+        "title": "How much <em>energy</em> does the sun produce?", 
+        "url": "http://www.boston.com/news/science/articles/2005/09/05/how_much_energy_does_the_sun_produce/"
+    }, 
+    {
+        "ID": 17, 
+        "content": "Solar advocates say the timing couldn't be better for Minnesota's annual tour of homes and businesses that use <em>solar energy</em> this weekend. That's because the\u00a0...", 
+        "date": "Sep 30, 2005", 
+        "source": "Minnesota Public Radio", 
+        "title": "Rising heating prices spur a surge in <em>solar</em> projects", 
+        "url": "http://news.minnesota.publicradio.org/features/2005/09/30_bensonl_solar/"
+    }, 
+    {
+        "ID": 18, 
+        "content": "A NASA satellite that measures the variability in the amount of the Sun's <em>energy</em> that reaches Earth's atmosphere and impacts our winds, land and oceans has\u00a0...", 
+        "date": "May 21, 2005", 
+        "source": "Jet Propulsion Laboratory", 
+        "title": "NASA's AcrimSat <em>Solar</em> Spacecraft Completes Five-Year Mission", 
+        "url": "http://www.jpl.nasa.gov/news/news.php?feature=792"
+    }, 
+    {
+        "ID": 19, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 20, 
+        "content": "A neighbour has a <em>solar panel</em> on an end wall. At certain times of year this panel acts as a mirror and reflects an extremely powerful beam of reflected sunlight\u00a0...", 
+        "date": "Mar 20, 2005", 
+        "source": "Telegraph.co.uk", 
+        "title": "Property clinic: coping with <em>solar panels</em>", 
+        "url": "http://www.telegraph.co.uk/property/propertyadvice/3340237/Property-clinic-coping-with-solar-panels.html"
+    }, 
+    {
+        "ID": 21, 
+        "content": "Since its inception, Strem Chemicals has focused on offering unique organometallic compounds for both academic and industrial research purposes.", 
+        "date": "Aug 3, 2005", 
+        "source": "AZoNano.com", 
+        "title": "Fuel Cell, Energy Storage and <em>Solar Energy</em> Applications for <em>...</em>", 
+        "url": "http://www.azonano.com/article.aspx?ArticleID=1339"
+    }, 
+    {
+        "ID": 22, 
+        "content": "There is an old adage that if something sounds too good to be true, it probably is. That adage is especially applicable to <em>solar energy</em>. For decades, there have\u00a0...", 
+        "date": "Jun 4, 2005", 
+        "source": "The Heartland Institute", 
+        "title": "<em>Solar</em> Power: Too Good to Be True", 
+        "url": "http://news.heartland.org/newspaper-article/2005/06/01/solar-power-too-good-be-true"
+    }, 
+    {
+        "ID": 23, 
+        "content": "Sure, these folks are slapping <em>solar panels</em> on the roof and erecting the occasional wind turbine, but they're staying connected to the grid, just to be safe. And in\u00a0...", 
+        "date": "May 12, 2005", 
+        "source": "Wired News", 
+        "title": "The New Power Generation", 
+        "url": "http://www.wired.com/2005/05/solar-4/"
+    }, 
+    {
+        "ID": 24, 
+        "content": "Researchers develop technique to use dirty silicon, could pave way for cheaper <em>solar energy</em>. By Sarah Yang, Media Relations | 15 August 2005. BERKELEY\u00a0...", 
+        "date": "Aug 16, 2005", 
+        "source": "UC Berkeley", 
+        "title": "Researchers develop technique to use dirty silicon, could pave way <em>...</em>", 
+        "url": "http://www.berkeley.edu/news/media/releases/2005/08/15_solar.shtml"
+    }, 
+    {
+        "ID": 25, 
+        "content": "Q: How much energy does the sun produce and where does it all come from and ... amount of energy radiated by measuring the quantity of <em>solar energy</em>/second\u00a0...", 
+        "date": "Sep 6, 2005", 
+        "source": "Boston Globe", 
+        "title": "How much <em>energy</em> does the sun produce?", 
+        "url": "http://www.boston.com/news/science/articles/2005/09/05/how_much_energy_does_the_sun_produce/"
+    }, 
+    {
+        "ID": 26, 
+        "content": "Solar advocates say the timing couldn't be better for Minnesota's annual tour of homes and businesses that use <em>solar energy</em> this weekend. That's because the\u00a0...", 
+        "date": "Sep 30, 2005", 
+        "source": "Minnesota Public Radio", 
+        "title": "Rising heating prices spur a surge in <em>solar</em> projects", 
+        "url": "http://news.minnesota.publicradio.org/features/2005/09/30_bensonl_solar/"
+    }, 
+    {
+        "ID": 27, 
+        "content": "A NASA satellite that measures the variability in the amount of the Sun's <em>energy</em> that reaches Earth's atmosphere and impacts our winds, land and oceans has\u00a0...", 
+        "date": "May 21, 2005", 
+        "source": "Jet Propulsion Laboratory", 
+        "title": "NASA's AcrimSat <em>Solar</em> Spacecraft Completes Five-Year Mission", 
+        "url": "http://www.jpl.nasa.gov/news/news.php?feature=792"
+    }, 
+    {
+        "ID": 28, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 29, 
+        "content": "A neighbour has a <em>solar panel</em> on an end wall. At certain times of year this panel acts as a mirror and reflects an extremely powerful beam of reflected sunlight\u00a0...", 
+        "date": "Mar 20, 2005", 
+        "source": "Telegraph.co.uk", 
+        "title": "Property clinic: coping with <em>solar panels</em>", 
+        "url": "http://www.telegraph.co.uk/property/propertyadvice/3340237/Property-clinic-coping-with-solar-panels.html"
+    }, 
+    {
+        "ID": 30, 
+        "content": "The Golden State could soon enact the most ambitious <em>solar</em>-<em>energy</em> initiative ever proposed in the U.S. \u2014 legislation intended to put photovoltaic panels on a\u00a0...", 
+        "date": "Jun 25, 2005", 
+        "source": "Grist Magazine", 
+        "title": "Schwarzenegger's <em>solar</em>-roof plan could get sidelined by partisan <em>...</em>", 
+        "url": "http://grist.org/article/little-solar/"
+    }, 
+    {
+        "ID": 31, 
+        "content": "There is an old adage that if something sounds too good to be true, it probably is. That adage is especially applicable to <em>solar energy</em>. For decades, there have\u00a0...", 
+        "date": "Jun 4, 2005", 
+        "source": "The Heartland Institute", 
+        "title": "<em>Solar</em> Power: Too Good to Be True", 
+        "url": "http://news.heartland.org/newspaper-article/2005/06/01/solar-power-too-good-be-true"
+    }, 
+    {
+        "ID": 32, 
+        "content": "Sure, these folks are slapping <em>solar panels</em> on the roof and erecting the occasional wind turbine, but they're staying connected to the grid, just to be safe. And in\u00a0...", 
+        "date": "May 12, 2005", 
+        "source": "Wired News", 
+        "title": "The New Power Generation", 
+        "url": "http://www.wired.com/2005/05/solar-4/"
+    }, 
+    {
+        "ID": 33, 
+        "content": "Researchers develop technique to use dirty silicon, could pave way for cheaper <em>solar energy</em>. By Sarah Yang, Media Relations | 15 August 2005. BERKELEY\u00a0...", 
+        "date": "Aug 16, 2005", 
+        "source": "UC Berkeley", 
+        "title": "Researchers develop technique to use dirty silicon, could pave way <em>...</em>", 
+        "url": "http://www.berkeley.edu/news/media/releases/2005/08/15_solar.shtml"
+    }, 
+    {
+        "ID": 34, 
+        "content": "Q: How much energy does the sun produce and where does it all come from and ... amount of energy radiated by measuring the quantity of <em>solar energy</em>/second\u00a0...", 
+        "date": "Sep 6, 2005", 
+        "source": "Boston Globe", 
+        "title": "How much <em>energy</em> does the sun produce?", 
+        "url": "http://www.boston.com/news/science/articles/2005/09/05/how_much_energy_does_the_sun_produce/"
+    }, 
+    {
+        "ID": 35, 
+        "content": "Solar advocates say the timing couldn't be better for Minnesota's annual tour of homes and businesses that use <em>solar energy</em> this weekend. That's because the\u00a0...", 
+        "date": "Sep 30, 2005", 
+        "source": "Minnesota Public Radio", 
+        "title": "Rising heating prices spur a surge in <em>solar</em> projects", 
+        "url": "http://news.minnesota.publicradio.org/features/2005/09/30_bensonl_solar/"
+    }, 
+    {
+        "ID": 36, 
+        "content": "A NASA satellite that measures the variability in the amount of the Sun's <em>energy</em> that reaches Earth's atmosphere and impacts our winds, land and oceans has\u00a0...", 
+        "date": "May 21, 2005", 
+        "source": "Jet Propulsion Laboratory", 
+        "title": "NASA's AcrimSat <em>Solar</em> Spacecraft Completes Five-Year Mission", 
+        "url": "http://www.jpl.nasa.gov/news/news.php?feature=792"
+    }, 
+    {
+        "ID": 37, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 38, 
+        "content": "A neighbour has a <em>solar panel</em> on an end wall. At certain times of year this panel acts as a mirror and reflects an extremely powerful beam of reflected sunlight\u00a0...", 
+        "date": "Mar 20, 2005", 
+        "source": "Telegraph.co.uk", 
+        "title": "Property clinic: coping with <em>solar panels</em>", 
+        "url": "http://www.telegraph.co.uk/property/propertyadvice/3340237/Property-clinic-coping-with-solar-panels.html"
+    }, 
+    {
+        "ID": 39, 
+        "content": "The Golden State could soon enact the most ambitious <em>solar</em>-<em>energy</em> initiative ever proposed in the U.S. \u2014 legislation intended to put photovoltaic panels on a\u00a0...", 
+        "date": "Jun 25, 2005", 
+        "source": "Grist Magazine", 
+        "title": "Schwarzenegger's <em>solar</em>-roof plan could get sidelined by partisan <em>...</em>", 
+        "url": "http://grist.org/article/little-solar/"
+    }, 
+    {
+        "ID": 40, 
+        "content": "If you wore bell-bottom pants and platform shoes in the 1970s, you were groovy. If you placed a few <em>solar panels</em> atop your home or business, your cool factor\u00a0...", 
+        "date": "May 13, 2005", 
+        "source": "The Hook", 
+        "title": "<em>Solar</em> coaster: The ups and downs of sun <em>energy</em>", 
+        "url": "http://www.readthehook.com/96917/cover-solar-coaster-ups-and-downs-sun-energy"
+    }, 
+    {
+        "ID": 41, 
+        "content": "Sure, these folks are slapping <em>solar panels</em> on the roof and erecting the occasional wind turbine, but they're staying connected to the grid, just to be safe. And in\u00a0...", 
+        "date": "May 12, 2005", 
+        "source": "Wired News", 
+        "title": "The New Power Generation", 
+        "url": "http://www.wired.com/2005/05/solar-4/"
+    }, 
+    {
+        "ID": 42, 
+        "content": "Researchers develop technique to use dirty silicon, could pave way for cheaper <em>solar energy</em>. By Sarah Yang, Media Relations | 15 August 2005. BERKELEY\u00a0...", 
+        "date": "Aug 16, 2005", 
+        "source": "UC Berkeley", 
+        "title": "Researchers develop technique to use dirty silicon, could pave way <em>...</em>", 
+        "url": "http://www.berkeley.edu/news/media/releases/2005/08/15_solar.shtml"
+    }, 
+    {
+        "ID": 43, 
+        "content": "Q: How much energy does the sun produce and where does it all come from and ... amount of energy radiated by measuring the quantity of <em>solar energy</em>/second\u00a0...", 
+        "date": "Sep 6, 2005", 
+        "source": "Boston Globe", 
+        "title": "How much <em>energy</em> does the sun produce?", 
+        "url": "http://www.boston.com/news/science/articles/2005/09/05/how_much_energy_does_the_sun_produce/"
+    }, 
+    {
+        "ID": 44, 
+        "content": "Solar advocates say the timing couldn't be better for Minnesota's annual tour of homes and businesses that use <em>solar energy</em> this weekend. That's because the\u00a0...", 
+        "date": "Sep 30, 2005", 
+        "source": "Minnesota Public Radio", 
+        "title": "Rising heating prices spur a surge in <em>solar</em> projects", 
+        "url": "http://news.minnesota.publicradio.org/features/2005/09/30_bensonl_solar/"
+    }, 
+    {
+        "ID": 45, 
+        "content": "A NASA satellite that measures the variability in the amount of the Sun's <em>energy</em> that reaches Earth's atmosphere and impacts our winds, land and oceans has\u00a0...", 
+        "date": "May 21, 2005", 
+        "source": "Jet Propulsion Laboratory", 
+        "title": "NASA's AcrimSat <em>Solar</em> Spacecraft Completes Five-Year Mission", 
+        "url": "http://www.jpl.nasa.gov/news/news.php?feature=792"
+    }, 
+    {
+        "ID": 46, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 47, 
+        "content": "A neighbour has a <em>solar panel</em> on an end wall. At certain times of year this panel acts as a mirror and reflects an extremely powerful beam of reflected sunlight\u00a0...", 
+        "date": "Mar 20, 2005", 
+        "source": "Telegraph.co.uk", 
+        "title": "Property clinic: coping with <em>solar panels</em>", 
+        "url": "http://www.telegraph.co.uk/property/propertyadvice/3340237/Property-clinic-coping-with-solar-panels.html"
+    }, 
+    {
+        "ID": 48, 
+        "content": "The Golden State could soon enact the most ambitious <em>solar</em>-<em>energy</em> initiative ever proposed in the U.S. \u2014 legislation intended to put photovoltaic panels on a\u00a0...", 
+        "date": "Jun 25, 2005", 
+        "source": "Grist Magazine", 
+        "title": "Schwarzenegger's <em>solar</em>-roof plan could get sidelined by partisan <em>...</em>", 
+        "url": "http://grist.org/article/little-solar/"
+    }, 
+    {
+        "ID": 49, 
+        "content": "If you wore bell-bottom pants and platform shoes in the 1970s, you were groovy. If you placed a few <em>solar panels</em> atop your home or business, your cool factor\u00a0...", 
+        "date": "May 13, 2005", 
+        "source": "The Hook", 
+        "title": "<em>Solar</em> coaster: The ups and downs of sun <em>energy</em>", 
+        "url": "http://www.readthehook.com/96917/cover-solar-coaster-ups-and-downs-sun-energy"
+    }, 
+    {
+        "ID": 50, 
+        "content": "Stirling <em>Energy</em> Systems has been working on <em>solar</em> power generation units for 20 years, but this is the first serious implementation of the design. The SES\u00a0...", 
+        "date": "Aug 11, 2005", 
+        "source": "WorldChanging (blog)", 
+        "title": "Steampunk <em>Solar</em> Power", 
+        "url": "http://www.worldchanging.com/archives/003285.html"
+    }, 
+    {
+        "ID": 51, 
+        "content": "Researchers develop technique to use dirty silicon, could pave way for cheaper <em>solar energy</em>. By Sarah Yang, Media Relations | 15 August 2005. BERKELEY\u00a0...", 
+        "date": "Aug 16, 2005", 
+        "source": "UC Berkeley", 
+        "title": "Researchers develop technique to use dirty silicon, could pave way <em>...</em>", 
+        "url": "http://www.berkeley.edu/news/media/releases/2005/08/15_solar.shtml"
+    }, 
+    {
+        "ID": 52, 
+        "content": "Q: How much energy does the sun produce and where does it all come from and ... amount of energy radiated by measuring the quantity of <em>solar energy</em>/second\u00a0...", 
+        "date": "Sep 6, 2005", 
+        "source": "Boston Globe", 
+        "title": "How much <em>energy</em> does the sun produce?", 
+        "url": "http://www.boston.com/news/science/articles/2005/09/05/how_much_energy_does_the_sun_produce/"
+    }, 
+    {
+        "ID": 53, 
+        "content": "Solar advocates say the timing couldn't be better for Minnesota's annual tour of homes and businesses that use <em>solar energy</em> this weekend. That's because the\u00a0...", 
+        "date": "Sep 30, 2005", 
+        "source": "Minnesota Public Radio", 
+        "title": "Rising heating prices spur a surge in <em>solar</em> projects", 
+        "url": "http://news.minnesota.publicradio.org/features/2005/09/30_bensonl_solar/"
+    }, 
+    {
+        "ID": 54, 
+        "content": "A NASA satellite that measures the variability in the amount of the Sun's <em>energy</em> that reaches Earth's atmosphere and impacts our winds, land and oceans has\u00a0...", 
+        "date": "May 21, 2005", 
+        "source": "Jet Propulsion Laboratory", 
+        "title": "NASA's AcrimSat <em>Solar</em> Spacecraft Completes Five-Year Mission", 
+        "url": "http://www.jpl.nasa.gov/news/news.php?feature=792"
+    }, 
+    {
+        "ID": 55, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 56, 
+        "content": "A neighbour has a <em>solar panel</em> on an end wall. At certain times of year this panel acts as a mirror and reflects an extremely powerful beam of reflected sunlight\u00a0...", 
+        "date": "Mar 20, 2005", 
+        "source": "Telegraph.co.uk", 
+        "title": "Property clinic: coping with <em>solar panels</em>", 
+        "url": "http://www.telegraph.co.uk/property/propertyadvice/3340237/Property-clinic-coping-with-solar-panels.html"
+    }, 
+    {
+        "ID": 57, 
+        "content": "The Golden State could soon enact the most ambitious <em>solar</em>-<em>energy</em> initiative ever proposed in the U.S. \u2014 legislation intended to put photovoltaic panels on a\u00a0...", 
+        "date": "Jun 25, 2005", 
+        "source": "Grist Magazine", 
+        "title": "Schwarzenegger's <em>solar</em>-roof plan could get sidelined by partisan <em>...</em>", 
+        "url": "http://grist.org/article/little-solar/"
+    }, 
+    {
+        "ID": 58, 
+        "content": "If you wore bell-bottom pants and platform shoes in the 1970s, you were groovy. If you placed a few <em>solar panels</em> atop your home or business, your cool factor\u00a0...", 
+        "date": "May 13, 2005", 
+        "source": "The Hook", 
+        "title": "<em>Solar</em> coaster: The ups and downs of sun <em>energy</em>", 
+        "url": "http://www.readthehook.com/96917/cover-solar-coaster-ups-and-downs-sun-energy"
+    }, 
+    {
+        "ID": 59, 
+        "content": "Stirling <em>Energy</em> Systems has been working on <em>solar</em> power generation units for 20 years, but this is the first serious implementation of the design. The SES\u00a0...", 
+        "date": "Aug 11, 2005", 
+        "source": "WorldChanging (blog)", 
+        "title": "Steampunk <em>Solar</em> Power", 
+        "url": "http://www.worldchanging.com/archives/003285.html"
+    }, 
+    {
+        "ID": 60, 
+        "content": "A dust devil has apparently cleaned Spirit?s <em>solar</em> arrays. ... \"The noon <em>solar</em> output from the <em>panels</em> went from a 40 percent loss to just 7 percent,\" said rover\u00a0...", 
+        "date": "Mar 14, 2005", 
+        "source": "Space Com", 
+        "title": "Spirit Gets A Dust Devil Once-Over", 
+        "url": "http://www.space.com/861-spirit-dust-devil.html"
+    }, 
+    {
+        "ID": 61, 
+        "content": "Q: How much energy does the sun produce and where does it all come from and ... amount of energy radiated by measuring the quantity of <em>solar energy</em>/second\u00a0...", 
+        "date": "Sep 6, 2005", 
+        "source": "Boston Globe", 
+        "title": "How much <em>energy</em> does the sun produce?", 
+        "url": "http://www.boston.com/news/science/articles/2005/09/05/how_much_energy_does_the_sun_produce/"
+    }, 
+    {
+        "ID": 62, 
+        "content": "Solar advocates say the timing couldn't be better for Minnesota's annual tour of homes and businesses that use <em>solar energy</em> this weekend. That's because the\u00a0...", 
+        "date": "Sep 30, 2005", 
+        "source": "Minnesota Public Radio", 
+        "title": "Rising heating prices spur a surge in <em>solar</em> projects", 
+        "url": "http://news.minnesota.publicradio.org/features/2005/09/30_bensonl_solar/"
+    }, 
+    {
+        "ID": 63, 
+        "content": "A NASA satellite that measures the variability in the amount of the Sun's <em>energy</em> that reaches Earth's atmosphere and impacts our winds, land and oceans has\u00a0...", 
+        "date": "May 21, 2005", 
+        "source": "Jet Propulsion Laboratory", 
+        "title": "NASA's AcrimSat <em>Solar</em> Spacecraft Completes Five-Year Mission", 
+        "url": "http://www.jpl.nasa.gov/news/news.php?feature=792"
+    }, 
+    {
+        "ID": 64, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 65, 
+        "content": "A neighbour has a <em>solar panel</em> on an end wall. At certain times of year this panel acts as a mirror and reflects an extremely powerful beam of reflected sunlight\u00a0...", 
+        "date": "Mar 20, 2005", 
+        "source": "Telegraph.co.uk", 
+        "title": "Property clinic: coping with <em>solar panels</em>", 
+        "url": "http://www.telegraph.co.uk/property/propertyadvice/3340237/Property-clinic-coping-with-solar-panels.html"
+    }, 
+    {
+        "ID": 66, 
+        "content": "The Golden State could soon enact the most ambitious <em>solar</em>-<em>energy</em> initiative ever proposed in the U.S. \u2014 legislation intended to put photovoltaic panels on a\u00a0...", 
+        "date": "Jun 25, 2005", 
+        "source": "Grist Magazine", 
+        "title": "Schwarzenegger's <em>solar</em>-roof plan could get sidelined by partisan <em>...</em>", 
+        "url": "http://grist.org/article/little-solar/"
+    }, 
+    {
+        "ID": 67, 
+        "content": "If you wore bell-bottom pants and platform shoes in the 1970s, you were groovy. If you placed a few <em>solar panels</em> atop your home or business, your cool factor\u00a0...", 
+        "date": "May 13, 2005", 
+        "source": "The Hook", 
+        "title": "<em>Solar</em> coaster: The ups and downs of sun <em>energy</em>", 
+        "url": "http://www.readthehook.com/96917/cover-solar-coaster-ups-and-downs-sun-energy"
+    }, 
+    {
+        "ID": 68, 
+        "content": "Stirling <em>Energy</em> Systems has been working on <em>solar</em> power generation units for 20 years, but this is the first serious implementation of the design. The SES\u00a0...", 
+        "date": "Aug 11, 2005", 
+        "source": "WorldChanging (blog)", 
+        "title": "Steampunk <em>Solar</em> Power", 
+        "url": "http://www.worldchanging.com/archives/003285.html"
+    }, 
+    {
+        "ID": 69, 
+        "content": "A dust devil has apparently cleaned Spirit?s <em>solar</em> arrays. ... \"The noon <em>solar</em> output from the <em>panels</em> went from a 40 percent loss to just 7 percent,\" said rover\u00a0...", 
+        "date": "Mar 14, 2005", 
+        "source": "Space Com", 
+        "title": "Spirit Gets A Dust Devil Once-Over", 
+        "url": "http://www.space.com/861-spirit-dust-devil.html"
+    }, 
+    {
+        "ID": 70, 
+        "content": "Batteries, fuel cells and <em>solar</em> cells each mimic one of the functions plants perform to gain <em>energy</em> from the sun. Plants capture photons and use their <em>energy</em> to\u00a0...", 
+        "date": "Jun 16, 2005", 
+        "source": "Technology Research News", 
+        "title": "Power sources: fuel cells, <em>solar</em> cells, heat, vibration and fusion", 
+        "url": "http://www.trnmag.com/Stories/2005/061505/HIW_Power_sources_--_fuel_cells,_solar_cells,_heat,_vibration_and_fusion_061505.html"
+    }, 
+    {
+        "ID": 71, 
+        "content": "Solar advocates say the timing couldn't be better for Minnesota's annual tour of homes and businesses that use <em>solar energy</em> this weekend. That's because the\u00a0...", 
+        "date": "Sep 30, 2005", 
+        "source": "Minnesota Public Radio", 
+        "title": "Rising heating prices spur a surge in <em>solar</em> projects", 
+        "url": "http://news.minnesota.publicradio.org/features/2005/09/30_bensonl_solar/"
+    }, 
+    {
+        "ID": 72, 
+        "content": "A NASA satellite that measures the variability in the amount of the Sun's <em>energy</em> that reaches Earth's atmosphere and impacts our winds, land and oceans has\u00a0...", 
+        "date": "May 21, 2005", 
+        "source": "Jet Propulsion Laboratory", 
+        "title": "NASA's AcrimSat <em>Solar</em> Spacecraft Completes Five-Year Mission", 
+        "url": "http://www.jpl.nasa.gov/news/news.php?feature=792"
+    }, 
+    {
+        "ID": 73, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 74, 
+        "content": "A neighbour has a <em>solar panel</em> on an end wall. At certain times of year this panel acts as a mirror and reflects an extremely powerful beam of reflected sunlight\u00a0...", 
+        "date": "Mar 20, 2005", 
+        "source": "Telegraph.co.uk", 
+        "title": "Property clinic: coping with <em>solar panels</em>", 
+        "url": "http://www.telegraph.co.uk/property/propertyadvice/3340237/Property-clinic-coping-with-solar-panels.html"
+    }, 
+    {
+        "ID": 75, 
+        "content": "The Golden State could soon enact the most ambitious <em>solar</em>-<em>energy</em> initiative ever proposed in the U.S. \u2014 legislation intended to put photovoltaic panels on a\u00a0...", 
+        "date": "Jun 25, 2005", 
+        "source": "Grist Magazine", 
+        "title": "Schwarzenegger's <em>solar</em>-roof plan could get sidelined by partisan <em>...</em>", 
+        "url": "http://grist.org/article/little-solar/"
+    }, 
+    {
+        "ID": 76, 
+        "content": "If you wore bell-bottom pants and platform shoes in the 1970s, you were groovy. If you placed a few <em>solar panels</em> atop your home or business, your cool factor\u00a0...", 
+        "date": "May 13, 2005", 
+        "source": "The Hook", 
+        "title": "<em>Solar</em> coaster: The ups and downs of sun <em>energy</em>", 
+        "url": "http://www.readthehook.com/96917/cover-solar-coaster-ups-and-downs-sun-energy"
+    }, 
+    {
+        "ID": 77, 
+        "content": "Stirling <em>Energy</em> Systems has been working on <em>solar</em> power generation units for 20 years, but this is the first serious implementation of the design. The SES\u00a0...", 
+        "date": "Aug 11, 2005", 
+        "source": "WorldChanging (blog)", 
+        "title": "Steampunk <em>Solar</em> Power", 
+        "url": "http://www.worldchanging.com/archives/003285.html"
+    }, 
+    {
+        "ID": 78, 
+        "content": "A dust devil has apparently cleaned Spirit?s <em>solar</em> arrays. ... \"The noon <em>solar</em> output from the <em>panels</em> went from a 40 percent loss to just 7 percent,\" said rover\u00a0...", 
+        "date": "Mar 14, 2005", 
+        "source": "Space Com", 
+        "title": "Spirit Gets A Dust Devil Once-Over", 
+        "url": "http://www.space.com/861-spirit-dust-devil.html"
+    }, 
+    {
+        "ID": 79, 
+        "content": "Batteries, fuel cells and <em>solar</em> cells each mimic one of the functions plants perform to gain <em>energy</em> from the sun. Plants capture photons and use their <em>energy</em> to\u00a0...", 
+        "date": "Jun 16, 2005", 
+        "source": "Technology Research News", 
+        "title": "Power sources: fuel cells, <em>solar</em> cells, heat, vibration and fusion", 
+        "url": "http://www.trnmag.com/Stories/2005/061505/HIW_Power_sources_--_fuel_cells,_solar_cells,_heat,_vibration_and_fusion_061505.html"
+    }, 
+    {
+        "ID": 80, 
+        "content": "Interstate maglev rail system would include <em>solar panels</em> along the tracks, which would generate hydrogen to run the transport vehicles, which would travel at\u00a0...", 
+        "date": "May 27, 2005", 
+        "source": "PESN", 
+        "title": "<em>Solar</em> Hydrogen Maglev Rail System Conceived", 
+        "url": "http://pesn.com/2005/05/27/9600102_HydroSol_Mag-Lev_Trailblazer/"
+    }, 
+    {
+        "ID": 81, 
+        "content": "A NASA satellite that measures the variability in the amount of the Sun's <em>energy</em> that reaches Earth's atmosphere and impacts our winds, land and oceans has\u00a0...", 
+        "date": "May 21, 2005", 
+        "source": "Jet Propulsion Laboratory", 
+        "title": "NASA's AcrimSat <em>Solar</em> Spacecraft Completes Five-Year Mission", 
+        "url": "http://www.jpl.nasa.gov/news/news.php?feature=792"
+    }, 
+    {
+        "ID": 82, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 83, 
+        "content": "A neighbour has a <em>solar panel</em> on an end wall. At certain times of year this panel acts as a mirror and reflects an extremely powerful beam of reflected sunlight\u00a0...", 
+        "date": "Mar 20, 2005", 
+        "source": "Telegraph.co.uk", 
+        "title": "Property clinic: coping with <em>solar panels</em>", 
+        "url": "http://www.telegraph.co.uk/property/propertyadvice/3340237/Property-clinic-coping-with-solar-panels.html"
+    }, 
+    {
+        "ID": 84, 
+        "content": "The Golden State could soon enact the most ambitious <em>solar</em>-<em>energy</em> initiative ever proposed in the U.S. \u2014 legislation intended to put photovoltaic panels on a\u00a0...", 
+        "date": "Jun 25, 2005", 
+        "source": "Grist Magazine", 
+        "title": "Schwarzenegger's <em>solar</em>-roof plan could get sidelined by partisan <em>...</em>", 
+        "url": "http://grist.org/article/little-solar/"
+    }, 
+    {
+        "ID": 85, 
+        "content": "If you wore bell-bottom pants and platform shoes in the 1970s, you were groovy. If you placed a few <em>solar panels</em> atop your home or business, your cool factor\u00a0...", 
+        "date": "May 13, 2005", 
+        "source": "The Hook", 
+        "title": "<em>Solar</em> coaster: The ups and downs of sun <em>energy</em>", 
+        "url": "http://www.readthehook.com/96917/cover-solar-coaster-ups-and-downs-sun-energy"
+    }, 
+    {
+        "ID": 86, 
+        "content": "Stirling <em>Energy</em> Systems has been working on <em>solar</em> power generation units for 20 years, but this is the first serious implementation of the design. The SES\u00a0...", 
+        "date": "Aug 11, 2005", 
+        "source": "WorldChanging (blog)", 
+        "title": "Steampunk <em>Solar</em> Power", 
+        "url": "http://www.worldchanging.com/archives/003285.html"
+    }, 
+    {
+        "ID": 87, 
+        "content": "A dust devil has apparently cleaned Spirit?s <em>solar</em> arrays. ... \"The noon <em>solar</em> output from the <em>panels</em> went from a 40 percent loss to just 7 percent,\" said rover\u00a0...", 
+        "date": "Mar 14, 2005", 
+        "source": "Space Com", 
+        "title": "Spirit Gets A Dust Devil Once-Over", 
+        "url": "http://www.space.com/861-spirit-dust-devil.html"
+    }, 
+    {
+        "ID": 88, 
+        "content": "Batteries, fuel cells and <em>solar</em> cells each mimic one of the functions plants perform to gain <em>energy</em> from the sun. Plants capture photons and use their <em>energy</em> to\u00a0...", 
+        "date": "Jun 16, 2005", 
+        "source": "Technology Research News", 
+        "title": "Power sources: fuel cells, <em>solar</em> cells, heat, vibration and fusion", 
+        "url": "http://www.trnmag.com/Stories/2005/061505/HIW_Power_sources_--_fuel_cells,_solar_cells,_heat,_vibration_and_fusion_061505.html"
+    }, 
+    {
+        "ID": 89, 
+        "content": "Interstate maglev rail system would include <em>solar panels</em> along the tracks, which would generate hydrogen to run the transport vehicles, which would travel at\u00a0...", 
+        "date": "May 27, 2005", 
+        "source": "PESN", 
+        "title": "<em>Solar</em> Hydrogen Maglev Rail System Conceived", 
+        "url": "http://pesn.com/2005/05/27/9600102_HydroSol_Mag-Lev_Trailblazer/"
+    }, 
+    {
+        "ID": 90, 
+        "content": "Roland Kleinfeld, a jeweler and entrepreneur, has designed a cell phone charger that uses <em>solar energy</em>. It looks like a cell phone, except that the flip-out reveals\u00a0...", 
+        "date": "Oct 1, 2005", 
+        "source": "PESN", 
+        "title": "<em>Solar</em> Cell Phone Charger for Sale", 
+        "url": "http://pesn.com/2005/09/30/9600179_Solar_Cell_Phone_Charger/"
+    }, 
+    {
+        "ID": 91, 
+        "content": "Climate and Energy Project awards more than $11 million in research grants ... The new programs will focus on <em>solar energy</em>, advanced combustion, and carbon\u00a0...", 
+        "date": "Aug 14, 2005", 
+        "source": "Stanford Report", 
+        "title": "Climate and <em>Energy</em> Project awards more than $11 million in <em>...</em>", 
+        "url": "http://news.stanford.edu/news/2005/august24/gcep-082405.html"
+    }, 
+    {
+        "ID": 92, 
+        "content": "A neighbour has a <em>solar panel</em> on an end wall. At certain times of year this panel acts as a mirror and reflects an extremely powerful beam of reflected sunlight\u00a0...", 
+        "date": "Mar 20, 2005", 
+        "source": "Telegraph.co.uk", 
+        "title": "Property clinic: coping with <em>solar panels</em>", 
+        "url": "http://www.telegraph.co.uk/property/propertyadvice/3340237/Property-clinic-coping-with-solar-panels.html"
+    }, 
+    {
+        "ID": 93, 
+        "content": "The Golden State could soon enact the most ambitious <em>solar</em>-<em>energy</em> initiative ever proposed in the U.S. \u2014 legislation intended to put photovoltaic panels on a\u00a0...", 
+        "date": "Jun 25, 2005", 
+        "source": "Grist Magazine", 
+        "title": "Schwarzenegger's <em>solar</em>-roof plan could get sidelined by partisan <em>...</em>", 
+        "url": "http://grist.org/article/little-solar/"
+    }, 
+    {
+        "ID": 94, 
+        "content": "If you wore bell-bottom pants and platform shoes in the 1970s, you were groovy. If you placed a few <em>solar panels</em> atop your home or business, your cool factor\u00a0...", 
+        "date": "May 13, 2005", 
+        "source": "The Hook", 
+        "title": "<em>Solar</em> coaster: The ups and downs of sun <em>energy</em>", 
+        "url": "http://www.readthehook.com/96917/cover-solar-coaster-ups-and-downs-sun-energy"
+    }, 
+    {
+        "ID": 95, 
+        "content": "Stirling <em>Energy</em> Systems has been working on <em>solar</em> power generation units for 20 years, but this is the first serious implementation of the design. The SES\u00a0...", 
+        "date": "Aug 11, 2005", 
+        "source": "WorldChanging (blog)", 
+        "title": "Steampunk <em>Solar</em> Power", 
+        "url": "http://www.worldchanging.com/archives/003285.html"
+    }, 
+    {
+        "ID": 96, 
+        "content": "A dust devil has apparently cleaned Spirit?s <em>solar</em> arrays. ... \"The noon <em>solar</em> output from the <em>panels</em> went from a 40 percent loss to just 7 percent,\" said rover\u00a0...", 
+        "date": "Mar 14, 2005", 
+        "source": "Space Com", 
+        "title": "Spirit Gets A Dust Devil Once-Over", 
+        "url": "http://www.space.com/861-spirit-dust-devil.html"
+    }, 
+    {
+        "ID": 97, 
+        "content": "Batteries, fuel cells and <em>solar</em> cells each mimic one of the functions plants perform to gain <em>energy</em> from the sun. Plants capture photons and use their <em>energy</em> to\u00a0...", 
+        "date": "Jun 16, 2005", 
+        "source": "Technology Research News", 
+        "title": "Power sources: fuel cells, <em>solar</em> cells, heat, vibration and fusion", 
+        "url": "http://www.trnmag.com/Stories/2005/061505/HIW_Power_sources_--_fuel_cells,_solar_cells,_heat,_vibration_and_fusion_061505.html"
+    }, 
+    {
+        "ID": 98, 
+        "content": "Interstate maglev rail system would include <em>solar panels</em> along the tracks, which would generate hydrogen to run the transport vehicles, which would travel at\u00a0...", 
+        "date": "May 27, 2005", 
+        "source": "PESN", 
+        "title": "<em>Solar</em> Hydrogen Maglev Rail System Conceived", 
+        "url": "http://pesn.com/2005/05/27/9600102_HydroSol_Mag-Lev_Trailblazer/"
+    }, 
+    {
+        "ID": 99, 
+        "content": "Roland Kleinfeld, a jeweler and entrepreneur, has designed a cell phone charger that uses <em>solar energy</em>. It looks like a cell phone, except that the flip-out reveals\u00a0...", 
+        "date": "Oct 1, 2005", 
+        "source": "PESN", 
+        "title": "<em>Solar</em> Cell Phone Charger for Sale", 
+        "url": "http://pesn.com/2005/09/30/9600179_Solar_Cell_Phone_Charger/"
+    }, 
+    {
+        "ID": 100, 
+        "content": "Under this contract, SDG&amp;E will buy the electrical <em>energy</em> produced from this plant from SES <em>Solar</em> Two LLC, an affiliate of Arizona-based Stirling <em>Energy</em>\u00a0...", 
+        "date": "Oct 12, 2005", 
+        "source": "PESN", 
+        "title": "Stirling <em>Energy</em> Systems Signs New Contract for 300 MW", 
+        "url": "http://pesn.com/2005/10/12/9600186_Stirling_300MW/"
+    }
+]
